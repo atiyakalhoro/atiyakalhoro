@@ -21,7 +21,7 @@
 | **CI/CD** | GitHub Actions · Git |
 | **Reporting** | Allure · Mochawesome |
 | **Test Design** | BDD/Cucumber · POM · Data-Driven · Cross-browser |
-| **Management** | Jira · TestRail |
+| **Management** | Jira · TestRail | Linearr
 
 ---
 
