@@ -1,51 +1,62 @@
-# Hey, I'm Atiya 👋
+<div align="center">
 
-### Senior QA Automation Engineer | 5+ Years | ISTQB Certified
+# Atiya Kalhoro
+### Senior QA Automation Engineer · 5+ Years · ISTQB Certified
+**📍 Dubai, UAE**
 
-I'm passionate about building automation systems that actually work in production — not just on a demo. I specialise in end-to-end, API, and mobile test automation, with a strong focus on framework architecture, CI/CD integration, and scalable test design.
+*I don't just write tests — I build automation systems that scale with your product.*
 
----
-
-## 🚀 What I Build
-
-- **E2E Automation Frameworks** — Web UI automation using Cypress, Playwright and Selenium with clean POM architecture
-- **API Test Suites** — Full CRUD, auth, schema and negative testing using REST Assured, Axios and Postman
-- **Mobile Automation** — Native and hybrid app testing with Appium and Maestro
-- **CI/CD Pipelines** — Automated test execution on every push using GitHub Actions
-- **BDD Frameworks** — Readable test scenarios using Cucumber and Gherkin syntax
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 💡 My Expertise
 
-**Test Automation**
-Cypress · Playwright · Selenium WebDriver · Appium · Maestro
+| Area | Tools & Technologies |
+|---|---|
+| **Web Automation** | Cypress · Playwright · Selenium WebDriver |
+| **Mobile Automation** | Appium · Maestro |
+| **API Testing** | REST Assured · Postman · Axios · Mocha · Chai |
+| **Languages** | JavaScript · Java · TypeScript |
+| **CI/CD** | GitHub Actions · Git |
+| **Reporting** | Allure · Mochawesome |
+| **Test Design** | BDD/Cucumber · POM · Data-Driven · Cross-browser |
+| **Management** | Jira · TestRail |
 
-**API Testing**
-REST Assured · Postman · Axios · Mocha · Chai
+---
 
-**Languages**
-JavaScript · Java · TypeScript
+## 🏗️ How I Work
 
-**Frameworks & Patterns**
-BDD / Cucumber · Page Object Model · Data-Driven Testing · Cross-browser Testing
+```
+Requirement → Risk Analysis → Test Strategy → Framework Design → Automation → CI/CD → Reporting
+```
 
-**CI/CD & Reporting**
-GitHub Actions · Git · Jira · Allure · Mochawesome
+- Every framework I build is **maintainable** — clean POM, no hardcoded selectors, no flaky waits
+- Every test suite is **CI-ready** — plugs into GitHub Actions, runs headless, reports results
+- Every project is built to **scale** — new team members can add tests without touching core logic
 
 ---
 
 ## 📂 Featured Projects
 
-| Project | Stack | Description |
+| Project | Stack | What it covers |
 |---|---|---|
-| [cypress-e2e-framework](https://github.com/atiyakalhoro/cypress-e2e-framework) | Cypress · JS · POM · GitHub Actions | End-to-end automation for an e-commerce platform covering UI and API flows |
-| [api-testing-framework](https://github.com/atiyakalhoro/api-testing-framework) | Axios · Mocha · Chai · GitHub Actions | REST API framework with full CRUD, auth and negative test coverage |
+| [cypress-e2e-framework](https://github.com/atiyakalhoro/cypress-e2e-framework) | Cypress · JS · GitHub Actions | E2E + API automation for an e-commerce platform |
+| [api-testing-framework](https://github.com/atiyakalhoro/api-testing-framework) | Axios · Mocha · Chai | Full CRUD, auth & negative API test coverage |
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
-<a href="https://www.linkedin.com/in/atiya-kalhoro-a8b717200/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atiyakalhoro&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiyakalhoro&layout=compact&theme=default&hide_border=true" height="150"/>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/atiya-kalhoro-a8b717200/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
