@@ -46,15 +46,6 @@ Requirement → Risk Analysis → Test Strategy → Framework Design → Automat
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atiyakalhoro&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiyakalhoro&layout=compact&theme=default&hide_border=true" height="150"/>
-</div>
-
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/atiya-kalhoro-a8b717200/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
